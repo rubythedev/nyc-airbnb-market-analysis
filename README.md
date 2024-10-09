@@ -1,5 +1,5 @@
 # NYC Airbnb Market Analysis
-
+[Check it out here!](https://docs.google.com/spreadsheets/d/1C-JBFrbFeeHaOa94HlIgMUcOBJkeSoNmVrSZIUx-bHg/edit?usp=sharing)
 ## Overview
 This project involves analyzing the vacation rental market in Manhattan, New York City, using advanced spreadsheet techniques. The goal is to provide insights to a consulting company on potential investment properties in the Airbnb market. The analysis is based on the NYC Airbnb dataset, focusing on listings, occupancy rates, and neighborhood preferences.
 
