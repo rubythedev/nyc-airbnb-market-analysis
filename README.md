@@ -24,7 +24,7 @@ The project consists of several parts, each contributing to the overall analysis
    - Estimated annual revenue for properties based on average prices and occupancy rates.
    - Created visualizations (bar charts) to depict how occupancy changes throughout the week.
 
-5. **Attributes Impact Analysis** (Optional):
+5. **Attributes Impact Analysis**:
    - Investigated the correlation between property attributes (e.g., amenities, review ratings) and rental performance.
 
 6. **Documentation and Formatting**:
